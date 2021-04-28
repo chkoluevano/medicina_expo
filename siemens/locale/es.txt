@@ -5,7 +5,7 @@
 ### Description
 
 ### Título
-tour.name = phillips
+tour.name = siemens
 
 ## Skin
 
@@ -32,34 +32,26 @@ Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECT
 ## Media
 
 ### Título
-album_054AA413_1455_3B9D_41B1_8416A076BD61.label = Album de Fotos 1
-album_054AA413_1455_3B9D_41B1_8416A076BD61_0.label = 1
-album_054AA413_1455_3B9D_41B1_8416A076BD61_1.label = 2
-album_054AA413_1455_3B9D_41B1_8416A076BD61_2.label = 3
-album_054AA413_1455_3B9D_41B1_8416A076BD61_3.label = 4
-panorama_06F2C2E3_1349_C969_419E_0FB7AEF8BBA4.label = philips
-video_04EDF726_13B8_C8EB_41A2_D375573328BE.label = phillips_institucional
-video_05474240_13B8_48A7_41AD_F45D6DA00155.label = phillips_memoria
+panorama_08592CB8_144F_048B_41B2_891269351790.label = siemens
+video_089EFB78_145D_0D8B_41A7_CE8A715DFBDE.label = video_siemens
 
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_04743BBF_134B_BFD9_41A2_B9780A34B92A.toolTip = DESCARGA
-HotspotPanoramaOverlayArea_04B1CDBB_134B_FBD9_41A5_DF58C887DE61.toolTip = VISUALIZA
-HotspotPanoramaOverlayArea_057F99E8_1348_7B67_41AF_B5CC28ABCBBA.toolTip = DESCARGA
-HotspotPanoramaOverlayArea_061A3AFC_13B9_D95F_41B3_2484B88AB17D.toolTip = REPRODUCE
-HotspotPanoramaOverlayArea_064B8D37_13B9_D8E9_4198_2CD711513449.toolTip = REPRODUCE
+HotspotPanoramaOverlayArea_08201AF4_145B_0C9B_41AF_D213D0B48A5C.toolTip = DESCARGA
+HotspotPanoramaOverlayArea_08A6F8CD_145B_0C85_4193_1F417923B21B.toolTip = CONOCE MÁS
+HotspotPanoramaOverlayArea_0957E42D_145B_1B85_4180_6949B07CFFDC.toolTip = DESCARGA
 
 ## Acción
 
 ### URL
-LinkBehaviour_040FDEA4_1358_79EF_41A1_F2AFAAC47A95.source = ../telix?skip-loading 
-LinkBehaviour_04492000_1359_C8A7_419B_1974EE8F1500.source = ../general?skip-loading 
-LinkBehaviour_049421A7_1358_CBE9_41B1_B8A4A0206874.source = ../acceso?skip-loading 
-LinkBehaviour_04FE5943_1358_78A9_4197_8B8A74A880F4.source = ../bayer?skip-loading 
-LinkBehaviour_0B820271_135B_C969_41A5_45FCB1C12B26.source = ../siemens?skip-loading
-LinkBehaviour_0BA728F2_1358_796B_41A7_E4098AE59AB0.source = ../nymed?skip-loading 
-LinkBehaviour_0BBA00D1_1358_49A9_4196_E9848CC54523.source = ../index.html?skip-loading 
+LinkBehaviour_303708C2_15CF_0CFF_4192_7969BAB3B1F7.source = ../nymed?skip-loading 
+LinkBehaviour_3061F747_15CD_0585_41AE_4D431766B6E7.source = ../acceso?skip-loading 
+LinkBehaviour_30938342_15CD_3DFF_4190_AB29C40107D8.source = ../index.html?skip-loadin
+LinkBehaviour_310C6319_15CF_FD8D_4166_60CDF553B2FB.source = ../general?skip-loading 
+LinkBehaviour_31B8A8CA_15CF_0C8F_41B1_7EC10A54F0E4.source = ../bayer?skip-loading 
+LinkBehaviour_33188AF6_15CF_0C87_41A5_5054C31E05C6.source = ../telix?skip-loading 
+LinkBehaviour_3662A032_15CD_1B9F_4188_F38E63B2649B.source = ../phillips?skip-loading 
 LinkBehaviour_C1954723_DCF4_5B1D_41BD_6F155A05F461.source = https://www.fmmnim.com/
 LinkBehaviour_F5D46494_DC34_3D3B_41EA_4F785CDEFE47.source = mailto:xitlali.ojeda@eventoscorporativos360.com 
 LinkBehaviour_FADBFCDC_DCCC_2D2B_41D7_1BF80A4D8A13.source = https://www.fmmnim.com/inicio.html
